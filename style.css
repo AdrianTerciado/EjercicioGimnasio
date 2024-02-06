@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 3px 3px;
+}
+
+th{
+    width: 25%;
+    background-color: rgba(211, 211, 211, 0.341);
+}
+
+.specialBox{
+    border-bottom: none;
+    border-top: none;
+}
